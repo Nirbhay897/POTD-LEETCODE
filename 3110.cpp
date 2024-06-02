@@ -32,6 +32,9 @@
 // 2 <= s.length <= 100
 // s consists only of lowercase English letters.
 
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     int scoreOfString(string s) {
